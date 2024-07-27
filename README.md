@@ -2,15 +2,13 @@
 
 As a token of gratitude to what I learned from others, I'm open sourcing both my Rust fixed neural network and a simple Rust NEAT implementation. Most likely, both can be improved and optimized. As of July 2024, the NEAT algorithm has a bug and sometimes creates nodes on the same layer. Haven't focussed on fixing that yet.
 
-If you use this in any public or derived work, please attribute Genecraft. If you're interested in collaborating, whether scientifically, coding or something else, don't hesitate to reach out. 
-
-Also– If you build something cool, I'd love to share it. Feel free to send a video and I'll add as examples below.
+If you use this in any public or derived work, please attribute Genecraft. Also– If you build something cool, I'd love to see and share it. Feel free to send a video and I'll add it as an examples below.
 
 Email genecraftsimulator@gmail.com or message me on reddit.com/u/genecraft for any questions or suggestions.
 
 # Collaboration (Science, Code, Genecraft, etc)
 
-I am not a coder– Rather an amateur neuroscientist that leverages LLMs to help bring my ideas to life. If you'd like to collaborate scientifically or through code, please reach out to genecraftsimulator@gmail.com or message me on reddit.com/u/genecraft
+I am not a coder– Rather an amateur neuroscientist that leverages LLMs to help bring my ideas to life. If you'd like to collaborate scientifically or in another way, please reach out to genecraftsimulator@gmail.com or message me on reddit.com/u/genecraft
 
 
 # About NEAT (NeuroEvolution of Augemented Topologies)
